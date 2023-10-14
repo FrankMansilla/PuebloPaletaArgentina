@@ -3,7 +3,7 @@ Final project Web design II - 2023 - I.S.F.D.y T. N° 27
 
 # Pueblo Paleta Argentina (PPA)
 
-![Logo de PPA](templates/Logo.png)
+![Logo de PPA](Templates/Logo.png)
 
 Este repositorio contiene el código fuente y los recursos asociados a "Pueblo Paleta Argentina (PPA)", un proyecto desarrollado por Frank Mansilla como parte del curso de Diseño Web II en el Instituto Superior de Formación Docente y Técnica N° 27, Bolívar, Buenos Aires, Argentina, en el año 2023.
 
